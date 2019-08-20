@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68ef0f50-9b8a-4c60-9f2c-1df429ad7727" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="51" />
+    <option name="y" value="25" />
+    <option name="width" value="658" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectId" id="1Pg80zO9tg6NGyKWVsnN4PT8u7p" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../selenium_pom" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.codecool.pom" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/codecool/pom/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/codecool/pom" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/codecool/pom/parameters" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SimpleFormPageTest.twoFieldsAndOutput (1)">
+    <configuration name="RadioButtonsPageTest.radioButtons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.pom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codecool.pom" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.pom.RadioButtonsPageTest" />
+      <option name="METHOD_NAME" value="radioButtons" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectDropdownListPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.pom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codecool.pom" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.pom.SelectDropdownListPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFormPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.pom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codecool.pom" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.pom.SimpleFormPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFormPageTest.singleFieldAndButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.pom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codecool.pom" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.pom.SimpleFormPageTest" />
+      <option name="METHOD_NAME" value="singleFieldAndButton" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFormPageTest.twoFieldsAndOutput (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.pom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codecool.pom" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.pom.SimpleFormPageTest" />
+      <option name="METHOD_NAME" value="twoFieldsAndOutput(java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SimpleFormPageTest.twoFieldsAndOutput (1)" />
+        <item itemvalue="JUnit.SimpleFormPageTest" />
+        <item itemvalue="JUnit.SimpleFormPageTest.singleFieldAndButton" />
+        <item itemvalue="JUnit.RadioButtonsPageTest.radioButtons" />
+        <item itemvalue="JUnit.SelectDropdownListPageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68ef0f50-9b8a-4c60-9f2c-1df429ad7727" name="Default Changelist" comment="" />
+      <created>1561225235767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561225235767</updated>
+      <workItem from="1561225238703" duration="2051000" />
+      <workItem from="1561273782191" duration="23362000" />
+      <workItem from="1561361376753" duration="44000" />
+      <workItem from="1561361757211" duration="11234000" />
+      <workItem from="1561451631375" duration="3444000" />
+      <workItem from="1561472004657" duration="1263000" />
+      <workItem from="1561532660954" duration="60000" />
+      <workItem from="1561551605875" duration="1240000" />
+      <workItem from="1561618789500" duration="617000" />
+      <workItem from="1561625072161" duration="595000" />
+      <workItem from="1566284160956" duration="1686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SimpleFormPageTest_twoFieldsAndOutput_(1) - 2019.06.24 at 09h 38m 13s.xml">
+      <configuration name="SimpleFormPageTest.twoFieldsAndOutput (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleFormPageTest_twoFieldsAndOutput_(1) - 2019.06.24 at 09h 38m 55s.xml">
+      <configuration name="SimpleFormPageTest.twoFieldsAndOutput (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleFormPageTest_twoFieldsAndOutput_(1) - 2019.06.24 at 09h 55m 33s.xml">
+      <configuration name="SimpleFormPageTest.twoFieldsAndOutput (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleFormPageTest_twoFieldsAndOutput_(1) - 2019.06.24 at 09h 57m 08s.xml">
+      <configuration name="SimpleFormPageTest.twoFieldsAndOutput (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleFormPageTest - 2019.06.24 at 09h 59m 16s.xml">
+      <configuration name="SimpleFormPageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleFormPageTest_twoFieldsAndOutput_(1) - 2019.06.24 at 10h 15m 23s.xml">
+      <configuration name="SimpleFormPageTest.twoFieldsAndOutput (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleFormPageTest_twoFieldsAndOutput_(1) - 2019.06.24 at 11h 07m 45s.xml">
+      <configuration name="SimpleFormPageTest.twoFieldsAndOutput (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleFormPageTest_twoFieldsAndOutput_(1) - 2019.06.24 at 11h 14m 27s.xml">
+      <configuration name="SimpleFormPageTest.twoFieldsAndOutput (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleFormPageTest_twoFieldsAndOutput_(1) - 2019.06.24 at 13h 54m 05s.xml">
+      <configuration name="SimpleFormPageTest.twoFieldsAndOutput (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleFormPageTest_twoFieldsAndOutput_(1) - 2019.06.24 at 15h 01m 34s.xml">
+      <configuration name="SimpleFormPageTest.twoFieldsAndOutput (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>POM</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
